@@ -2,7 +2,7 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Uthappizza",
+      "name": "PIZZA",
       "image": "https://i.imgur.com/k4WgPYZ.png",
       "category": "mains",
       "label": "Hot",
@@ -12,7 +12,7 @@
     },
     {
       "id": 1,
-      "name": "Zucchipakoda",
+      "name": "ZUCC",
       "image": "https://i.imgur.com/RgPCUsh.png",
       "category": "appetizer",
       "label": "",
@@ -22,7 +22,7 @@
     },
     {
       "id": 2,
-      "name": "Vadonut",
+      "name": "DODO",
       "image": "https://i.imgur.com/yzBucC0.png",
       "category": "appetizer",
       "label": "New",
@@ -32,7 +32,7 @@
     },
     {
       "id": 3,
-      "name": "ElaiCheese Cake",
+      "name": "CHEE Cake",
       "image": "https://i.imgur.com/AYdS9Hu.png",
       "category": "dessert",
       "label": "",
